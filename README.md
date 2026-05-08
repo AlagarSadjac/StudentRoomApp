@@ -16,4 +16,4 @@ Architecture: Follows Standard Android Design Patterns (DAO, Entity, Database).
 
 
 
-Download App [https://github.com/AlagarSadjac/StudentRoomApp/releases/download/V1.0.0/app-debug.apk]
+[Download App](https://github.com/AlagarSadjac/Student-Info/releases/download/V1.0.1/app-debug.apk)
